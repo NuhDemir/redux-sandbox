@@ -1,20 +1,22 @@
+import * as actionTypes from "./actionTypes";
+
 export const addTask = (task) => {
   return {
-    type: "ADD_TASK",
+    type: actionTypes.ADD_TASK,
     payload: { task: task },
   };
 };
 
 export const toggleTask = (id) => {
   return {
-    type: "TOGGLE_TASK",
+    type: actionTypes.TOGGLE_TASK,
     payload: { id: id },
   };
 };
 
 export const deleteTask = (id) => {
   return {
-    type: "DELETE_TASK",
+    type: actionTypes.DELETE_TASK,
     payload: { id: id },
   };
 };
