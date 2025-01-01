@@ -18,6 +18,7 @@ function reducer(state, action) {
           ? { ...task, completed: !task.completed }
           : task
       );
+
     case actionTypes.DELETE_TASK:
       return state.filter((task) => task.id !== action.payload.id);
     case "EDIT_TASK":
