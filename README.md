@@ -1,4 +1,6 @@
 ## Redux-Sandbox Project
+
+<img src="https://github.com/NuhDemir/redux-sandbox/blob/main/img/redux.jpg">
 [redux sandbox](https://github.com/NuhDemir/redux-sandbox/blob/main/img/redux.jpg?raw=true)
 ### Introduction
 
