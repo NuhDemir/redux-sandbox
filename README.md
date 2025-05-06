@@ -1,7 +1,7 @@
 ## Redux-Sandbox Project
 
 <img src="https://github.com/NuhDemir/redux-sandbox/blob/main/img/redux.jpg">
-[redux sandbox](https://github.com/NuhDemir/redux-sandbox/blob/main/img/redux.jpg?raw=true)
+
 ### Introduction
 
 Redux is a popular state management library used to manage complexity in large-scale JavaScript applications. This project delves into the fundamental principles and operations of Redux, culminating in the development of a sandbox application. With the motto "A hands-on journey into Redux: State management simplified and optimized," this project offers a practical starting point for anyone eager to learn Redux.
